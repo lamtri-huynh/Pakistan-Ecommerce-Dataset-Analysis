@@ -21,16 +21,6 @@ This project analyzes a large e-commerce dataset from Pakistan to uncover key tr
    - Analyzed seasonal trends and category performance.  
    - Identified peak shopping periods and changes in payment methods over time.  
 
----
-
-## 🔎 Key Insights
-✅ Fashion and electronics are the most popular categories.  
-✅ Cash on delivery remains dominant, but digital payments are growing steadily.  
-✅ Peak shopping periods align with major events like Eid and Black Friday.  
-✅ High cancellation rates in categories like electronics suggest improvement opportunities.  
-
----
-
 ## 🛠️ Tools & Libraries
 - **Pandas** – Data manipulation  
 - **NumPy** – Numerical operations  
@@ -41,18 +31,21 @@ This project analyzes a large e-commerce dataset from Pakistan to uncover key tr
 - **Missingno** – Handling missing values  
 
 ---
-
 ## 📈 Sample Visuals
 ### Best-Selling Categories
-![Best Selling Category](path/to/best_selling_category.png)  
+![image](https://github.com/user-attachments/assets/44d75603-58c5-4194-9dd4-6f3ea38cd6f3)
 
 ### Cancellation Rate by Category
-![Cancellation Rate](path/to/cancellation_rate.png)  
+![image](https://github.com/user-attachments/assets/d0ffed19-987f-4b98-9ec8-a15bb91a34c9)
 
 ### Seasonal Trends
-![Seasonal Trends](path/to/seasonal_trends.png)  
+![image](https://github.com/user-attachments/assets/3bd6c659-36c1-415e-a673-d5e82a898ae9)
 
----
+## 🔎 Key Insights
+✅ Fashion and electronics are the most popular categories.  
+✅ Peak shopping periods align with major events like Eid and Black Friday.  
+✅ High cancellation rates in categories like electronics suggest improvement opportunities.  
+
 ## 💼 Skills Used
 ✅ Data Cleaning and Preprocessing  
 ✅ Data Visualization  
