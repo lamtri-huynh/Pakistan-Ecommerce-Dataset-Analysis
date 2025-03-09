@@ -4,7 +4,7 @@ This dataset was from the [Pakistan Ecommerce Dataset](https://www.kaggle.com/co
 
 # Project Overview
 
-This project analyzes a large e-commerce dataset from Pakistan to uncover key trends and insights into customer behavior, product preferences, and payment methods. The goal of this project is to analyze customer purchasing behavior, payment preferences, and product trends within Pakistan's e-commerce sector. The insights gained will help businesses refine their operations and improve customer engagement.
+This project analyzes a large e-commerce dataset from Pakistan to uncover key trends and insights into customer behavior, product preferences and payment methods. The goal of this project is to analyze customer purchasing behavior, payment preferences and product trends within Pakistan's e-commerce sector. The insights gained will help businesses refine their operations and improve customer engagement.
 
 ### **Methodology**
 1. **Data Cleaning:**  
@@ -14,14 +14,14 @@ This project analyzes a large e-commerce dataset from Pakistan to uncover key tr
 
 2. **Exploratory Data Analysis (EDA):**  
    - Summary statistics (mean, median, standard deviation) for key variables.  
-   - Visualizations using histograms, boxplots, and bar charts to identify patterns and outliers.  
-   - Correlation analysis to examine relationships between price, quantity ordered, and order status.  
+   - Visualizations using histograms, boxplots and bar charts to identify patterns and outliers.  
+   - Correlation analysis to examine relationships between price, quantity ordered and order status.  
 
 3. **Trend and Pattern Analysis:**  
    - Analyzed seasonal trends and category performance.  
    - Identified peak shopping periods and changes in payment methods over time.  
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 - **Pandas** – Data manipulation  
 - **NumPy** – Numerical operations  
 - **Matplotlib & Seaborn** – Data visualization  
@@ -31,7 +31,7 @@ This project analyzes a large e-commerce dataset from Pakistan to uncover key tr
 - **Missingno** – Handling missing values  
 
 ---
-## 📈 Sample Visuals
+## Sample Visuals
 ### Best-Selling Categories
 ![image](https://github.com/user-attachments/assets/44d75603-58c5-4194-9dd4-6f3ea38cd6f3)
 
@@ -41,14 +41,14 @@ This project analyzes a large e-commerce dataset from Pakistan to uncover key tr
 ### Seasonal Trends
 ![image](https://github.com/user-attachments/assets/3bd6c659-36c1-415e-a673-d5e82a898ae9)
 
-## 🔎 Key Insights
-✅ Fashion and electronics are the most popular categories.  
-✅ Peak shopping periods align with major events like Eid and Black Friday.  
-✅ High cancellation rates in categories like electronics suggest improvement opportunities.  
+## Key Insights
+- Fashion and electronics are the most popular categories.  
+- Peak shopping periods align with major events like Eid and Black Friday.  
+- High cancellation rates in categories like electronics suggest improvement opportunities.  
 
-## 💼 Skills Used
-✅ Data Cleaning and Preprocessing  
-✅ Data Visualization  
-✅ Statistical Analysis  
-✅ Trend and Pattern Identification  
-✅ Machine Learning (Logistic Regression, Clustering)  
+## Skills Used
+- Data Cleaning and Preprocessing  
+- Data Visualization  
+- Statistical Analysis  
+- Trend and Pattern Identification  
+- Machine Learning (Logistic Regression, Clustering)  
